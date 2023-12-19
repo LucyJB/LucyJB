@@ -1,10 +1,14 @@
-# About Me
+# <p align="center">About Me</p>
 
-Hi there! 👋 I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challenges and pushing my knowledge further.
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucy-bufton-23b8b827b/">LinkedIn</a> | <a href="#">Website</a>
+</p>
 
-🦄 I am currently studying Javascript with CodeFirstGirls.
+I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challenges and pushing my knowledge further.
 
-🦄 I am currently taking part in MOOC Challenges (CVs & Applications, Solve Problems with Python, Machine Learning).
+🦄 I am currently studying Introduction to Javascript with CodeFirstGirls.
+
+🦄 I have taken part in CodeFirstGirls MOOC (Massive Open Online Courses) (CVs & Applications, Solve Problems with Python).
 
 🦄 Currently following the Python track on Teamtreehouse.com - see my projects below!
 
