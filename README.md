@@ -12,9 +12,7 @@ Hi there! 👋 I'm a Data Engineer with a background in Data Analytics and GIS. 
 
 ## Skills
 
-## Skills
-
-💻 Proficient user in DBT and a member of the DBT labs community.
+<img src="images/dbt.png" alt="DBT Emoji" width="20" height="20"> Proficient user in dbt and a member of the dbt labs community.
 
 🔍 ETL pipelines with JSON and SQL.
 
