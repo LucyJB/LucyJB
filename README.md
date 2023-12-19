@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/rowing.jpg" alt="Rowing Image">
+  <img src="rowing.JPG" alt="Rowing Image" width="300" height="200">
 </p>
 
 # <p align="center">About Me</p>
