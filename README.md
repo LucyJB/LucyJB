@@ -24,8 +24,6 @@ I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challen
 
 🔍 ETL pipelines with JSON and SQL.
 
-🐙 Proficient in using Github.
-
 📊 Database management: SQL, NoSQL, SSIS.
 
 🚀 Programming Languages: Python, R, Go, Javascript, Ruby.
@@ -45,3 +43,5 @@ I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challen
 ☕ Coffee Tasting
 
 🎮 Computer Gaming
+
+🚣‍♀️ Rowing
