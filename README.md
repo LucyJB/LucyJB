@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/rowing.jpg" alt="Rowing Image">
+</p>
+
 # <p align="center">About Me</p>
 
 <p align="center">
