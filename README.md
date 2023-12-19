@@ -10,7 +10,7 @@
 
 I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challenges and pushing my knowledge further.
 
-🦄 I am currently studying Introduction to Javascript with CodeFirstGirls.
+🦄 I am studying Introduction to Javascript with CodeFirstGirls.
 
 🦄 I have taken part in CodeFirstGirls MOOC (Massive Open Online Courses) (CVs & Applications, Solve Problems with Python).
 
