@@ -42,6 +42,4 @@ I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challen
 
 ☕ Coffee Tasting
 
-🎮 Computer Gaming
-
 🚣‍♀️ Rowing
