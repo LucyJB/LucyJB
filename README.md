@@ -33,5 +33,7 @@ Hi there! 👋 I'm a Data Engineer with a background in Data Analytics and GIS. 
 ## Interests
 
 🚴‍♂️ Cycling
+
 ☕ Coffee Tasting
+
 🎮 Computer Gaming
