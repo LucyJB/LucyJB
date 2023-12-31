@@ -5,7 +5,7 @@
 # <p align="center">About Me</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucy-bufton-23b8b827b/">LinkedIn</a> | <a href="https://lucindabufton.vercel.app/">Website</a>
+  <a href="https://www.linkedin.com/in/lucy-bufton-23b8b827b/">LinkedIn</a> | <a href="[https://lucindabufton.vercel.app/](https://my-website-git-main-lucyjbs-projects.vercel.app/)">Website</a>
 </p>
 
 I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challenges and pushing my knowledge further.
