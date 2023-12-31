@@ -1,6 +1,6 @@
-<figure align="center">
-  <img src="rowing.JPG" alt="Rowing Image" width="75%" height="200" style="max-width: 75%;">
-  <figcaption>Rowing at sunrise on the south Devon coast</figcaption>
+<figure style="text-align:center;">
+  <img src="rowing.JPG" alt="Rowing Image" width="75%" height="200" style="max-width: 80%;">
+  <figcaption style="font-style: italic; margin-top: 10px;">Rowing at sunrise on the south Devon coast</figcaption>
 </figure>
 
 
