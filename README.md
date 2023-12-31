@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="rowing.JPG" alt="Rowing Image" width="300" height="200">
-</p>
+<figure align="center">
+  <img src="rowing.JPG" alt="Rowing Image" width="75%" style="max-width: 100%;">
+  <figcaption>Rowing at sunrise on the south Devon coast</figcaption>
+</figure>
+
 
 # <p align="center">About Me</p>
 
