@@ -1,7 +1,8 @@
-<figure style="text-align:center;">
-  <img src="rowing.JPG" align: center alt="Rowing Image" width="100%" height="200" style="max-width: 100%;">
-  <figcaption style="font: italic; margin-top: 0px;">Rowing at sunrise on the south Devon coast</figcaption>
+<figure style="position: relative; text-align: left;">
+  <img src="rowing.JPG" alt="Rowing Image" width="100%" style="max-width: 100%;">
+  <figcaption style="position: absolute; bottom: 0; left: 0; background: rgba(255, 255, 255, 0.7); padding: 10px; font-style: italic; color: white;">Rowing at sunrise on the south Devon coast</figcaption>
 </figure>
+
 
 
 # <p align="center">About Me</p>
