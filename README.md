@@ -1,5 +1,5 @@
 <figure align="center">
-  <img src="rowing.JPG" alt="Rowing Image" width="75%" style="max-width: 100%;">
+  <img src="rowing.JPG" alt="Rowing Image" width="75%" height="200" style="max-width: 75%;">
   <figcaption>Rowing at sunrise on the south Devon coast</figcaption>
 </figure>
 
