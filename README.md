@@ -8,8 +8,8 @@
 # <p align="center">About Me</p>
 
 
- [LinkedIn](https://www.linkedin.com/in/lucy-bufton-23b8b827b/)
-[Website](https://www.lucyb.uk)
+[LinkedIn](https://www.linkedin.com/in/lucy-bufton-23b8b827b/ "My LinkedIn Page")
+[Website](https://www.lucyb.uk "My Website")
 
 I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challenges and pushing my knowledge further.
 
@@ -19,7 +19,7 @@ I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challen
 
 🦄 Currently following the Python track on Teamtreehouse.com - see my projects below
 
-🦄 Enrolled in the [Zoomcamp Data Engineering cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp) January 2024
+🦄 Enrolled in the [Zoomcamp Data Engineering cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp "Link to Zoomcamp Course") January 2024
 
 ## Skills
 
@@ -41,7 +41,7 @@ I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challen
 
 ## Interests
 
-🚴‍♂️ Cycling - member of the [Adrian Hands Society](https://adrianhandssociety.com)
+🚴‍♂️ Cycling - member of the [Adrian Hands Society](https://adrianhandssociety.com "About the society")
 
 ☕ Coffee Tasting
 
