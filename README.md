@@ -19,7 +19,7 @@ I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challen
 
 🦄 Currently following the Python track on Teamtreehouse.com - see my projects below
 
-🦄 Enrolled in the [Zoomcamp Data Engineering cohort January 2024](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+🦄 Enrolled in the [Zoomcamp Data Engineering cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp) January 2024
 
 ## Skills
 
