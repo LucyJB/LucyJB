@@ -17,7 +17,7 @@ I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challen
 
 🦄 I have taken part in CodeFirstGirls MOOC (Massive Open Online Courses) (CVs & Applications, Solve Problems with Python).
 
-🦄 Currently following the Python track on Teamtreehouse.com - see my projects below
+🦄 Currently following the Full Stack Foundations track on Teamtreehouse.com - see my projects below
 
 🦄 Enrolled in the [Zoomcamp Data Engineering cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp "Link to Zoomcamp Course") January 2024
 
