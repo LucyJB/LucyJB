@@ -19,7 +19,7 @@ I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challen
 
 🦄 Currently following the Full Stack Foundations track on Teamtreehouse.com - see my projects below
 
-🦄 Enrolled in the [Zoomcamp Data Engineering cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp "Link to Zoomcamp Course") January 2024
+🦄 Enrolled in the [Zoomcamp Data Engineering cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp "Link to Zoomcamp Course") January 2024 - [My project work](https://github.com/LucyJB/Data-Engineering-Zoomcamp/tree/main) here
 
 ## Skills
 
