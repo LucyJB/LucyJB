@@ -13,13 +13,11 @@
 
 I'm a Data Engineer with a background in Data Analytics and GIS. I enjoy challenges and pushing my knowledge further.
 
-🦄 I am studying Introduction to Javascript with CodeFirstGirls.
-
-🦄 I have taken part in CodeFirstGirls MOOC (Massive Open Online Courses) (CVs & Applications, Solve Problems with Python).
+🦄 I am enrolled in CodeFirstGirls MLA (Mid Level Accelerator) - Repo here: https://github.com/LucyJB/MLA-pilot-1 
 
 🦄 Currently following the Full Stack Foundations track on Teamtreehouse.com - see my projects below
 
-🦄 Enrolled in the [Zoomcamp Data Engineering cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp "Link to Zoomcamp Course") January 2024 - [My project work](https://github.com/LucyJB/Data-Engineering-Zoomcamp/tree/main) here
+🦄 Enrolled in the [Zoomcamp Data Engineering cohort](https://github.com/DataTalksClub/data-engineering-zoomcamp "Link to Zoomcamp Course") January 2024
 
 ## Skills
 
